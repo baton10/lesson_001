@@ -20,8 +20,8 @@ a = get_summ(one, two, delimiter = '&')
 print(a)
 
 
-"""
 
+"""
 #ДОДЕЛАТЬ
 def format_price(price):
     price = int (price)
